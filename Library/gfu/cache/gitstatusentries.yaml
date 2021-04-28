@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-04-28T18:59:30.683+02:00
+  initializedAtString: 2021-04-27T21:44:22.303+02:00
+  entries:
+  - path: Assets\Fizika.meta
+    fullPath: C:\Unity\FootballGame\Assets\Fizika.meta
+    projectPath: Assets\Fizika.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fizika\test.physicsMaterial2D
+    fullPath: C:\Unity\FootballGame\Assets\Fizika\test.physicsMaterial2D
+    projectPath: Assets\Fizika\test.physicsMaterial2D
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fizika\test.physicsMaterial2D.meta
+    fullPath: C:\Unity\FootballGame\Assets\Fizika\test.physicsMaterial2D.meta
+    projectPath: Assets\Fizika\test.physicsMaterial2D.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Kepek\american-football-cricket-balls-clip-art-ball-e30f53ed274bf1f781ada31b6fd932fb.png
+    fullPath: C:\Unity\FootballGame\Assets\Kepek\american-football-cricket-balls-clip-art-ball-e30f53ed274bf1f781ada31b6fd932fb.png
+    projectPath: Assets\Kepek\american-football-cricket-balls-clip-art-ball-e30f53ed274bf1f781ada31b6fd932fb.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Kepek\american-football-cricket-balls-clip-art-ball-e30f53ed274bf1f781ada31b6fd932fb.png.meta
+    fullPath: C:\Unity\FootballGame\Assets\Kepek\american-football-cricket-balls-clip-art-ball-e30f53ed274bf1f781ada31b6fd932fb.png.meta
+    projectPath: Assets\Kepek\american-football-cricket-balls-clip-art-ball-e30f53ed274bf1f781ada31b6fd932fb.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Kepek\pngaaa.com-544293.png
+    fullPath: C:\Unity\FootballGame\Assets\Kepek\pngaaa.com-544293.png
+    projectPath: Assets\Kepek\pngaaa.com-544293.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Kepek\pngaaa.com-544293.png.meta
+    fullPath: C:\Unity\FootballGame\Assets\Kepek\pngaaa.com-544293.png.meta
+    projectPath: Assets\Kepek\pngaaa.com-544293.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\proba.physicsMaterial2D
+    fullPath: C:\Unity\FootballGame\Assets\proba.physicsMaterial2D
+    projectPath: Assets\proba.physicsMaterial2D
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\proba.physicsMaterial2D.meta
+    fullPath: C:\Unity\FootballGame\Assets\proba.physicsMaterial2D.meta
+    projectPath: Assets\proba.physicsMaterial2D.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Main.unity
+    fullPath: C:\Unity\FootballGame\Assets\Scenes\Main.unity
+    projectPath: Assets\Scenes\Main.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\SoccerBall.cs
+    fullPath: C:\Unity\FootballGame\Assets\Scripts\SoccerBall.cs
+    projectPath: Assets\Scripts\SoccerBall.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Unity\FootballGame\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Unity\FootballGame\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
